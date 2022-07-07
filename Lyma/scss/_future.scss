@@ -1,0 +1,35 @@
+.future {
+    background-image:  url(/img/first-container-bg.png);
+    background-position: center;
+    background-size: cover;
+
+    padding: 16% 10%;
+
+    &__title {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 57px;
+        line-height: 67px;
+
+        text-align: center;
+        letter-spacing: 0.81px;
+
+        color: #FFFFFF;
+    }
+
+    &__subtitle {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 25px;
+
+        text-align: center;
+        letter-spacing: 0.44px;
+
+        color: #FFFFFF;
+
+        margin: 3%;
+    }
+}

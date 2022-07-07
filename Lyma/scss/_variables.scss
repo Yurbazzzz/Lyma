@@ -1,0 +1,35 @@
+.flex-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn {
+    box-sizing: border-box;
+    border: 1px solid #FFFFFF;
+    color: #FFFFFF;
+
+    width: 215px;
+    height: 36px;
+
+    background: none;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+
+    text-align: center;
+    letter-spacing: 2px;
+
+    margin: 1%;
+}
+
+.btn:hover {
+    border: 5px solid #FFFFFF;
+}
+
+.container {
+    margin-bottom: 1%;
+}
